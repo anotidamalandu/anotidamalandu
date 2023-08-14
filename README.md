@@ -1,11 +1,10 @@
-
 Hi 👋 My name is Anotida Marvin Malandu
 =======================================
 
 Student at Curtin University
 ----------------------------
 
-I am a final year university student pursuing a Bachelor's degree in Business Information Technology and Systems.
+I am dedicated and ambitious third-year university student currently pursuing a degree in Business Information Technology and Systems at Curtin University. With a passion for technology and a keen interest in the world of business.
 
 * ✉️  You can contact me at [anotidamalandu@gmail.com](mailto:anotidamalandu@gmail.com)
 
@@ -26,17 +25,3 @@ ICON ICON ICON ICON ICON ICON
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/anotidamalandu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anotidamalandu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<!--
-**anotidamalandu/anotidamalandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
